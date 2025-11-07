@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-For a complete overview of the project, see [BIG_CATS_CLASSIFICATION.pdf](./BIG_CATS_CLASSIFICATION.pdf).
+For a complete overview of the project, see [BIG_CATS_CLASSIFICATION_README.pdf](./BIG_CATS_CLASSIFICATION_README.pdf).
 
 ## How to Run
 
